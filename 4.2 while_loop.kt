@@ -4,7 +4,7 @@
 
 fun main(){
 
-    // Here i have to print the Table of 12.
+    // Here i have to print the Table of 8.
     val tableNum : Int = 8
     var i : Int = 1
     while (i <= 10)
