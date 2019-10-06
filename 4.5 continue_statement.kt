@@ -1,5 +1,3 @@
-@file:Suppress("UNREACHABLE_CODE")
-
 // Objective
 
 // 1.
