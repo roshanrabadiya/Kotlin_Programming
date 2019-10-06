@@ -8,7 +8,7 @@ fun main(){
     // Example 1:
     for (i in 1..10){
 
-        if (i == 4) {     // it skip the 4 number and continue the loop
+        if (i == 4) {     // it skip the Number 4 and continue the loop
             continue
         }
         println(i)
