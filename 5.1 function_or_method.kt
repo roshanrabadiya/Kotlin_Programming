@@ -14,6 +14,6 @@ fun addNumbers(): Unit{  // in Kotlin 'void' is replace with 'Unit' keyword. but
     println("Sum is ${a+b}")
 }
 
-fun mul(a: Int, b: Int): Int{
+fun mul(a: Int, b: Int): Int{  // here function is return the Integer value.
     return a*b
 }
