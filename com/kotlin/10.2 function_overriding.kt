@@ -2,10 +2,8 @@ package com.kotlin
 
 // Objective
 
-// 1. Inheritance in Kotlin
-//      1. Single Inheritance
-//      2. Multilevel Inheritance
-//      3. Hierarchical Inheritance
+// 1. Function Overriding in Kotlin
+   
 
 fun main(){
 
